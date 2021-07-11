@@ -73,6 +73,11 @@ hr:not([size]) {
   height: 1px;
 }
 
+.text-letra{
+  color: #0477BF;
+  text-align: justify;
+}
+
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
@@ -7424,6 +7429,10 @@ textarea.form-control-lg {
 
 .bg-warning {
   background-color: #ffc107 !important;
+}
+
+.bg-popup {
+  background-color: #F2DCEF !important;
 }
 
 .bg-danger {
