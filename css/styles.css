@@ -308,6 +308,7 @@ th {
 }
 
 label {
+  color: black;
   display: inline-block;
 }
 
